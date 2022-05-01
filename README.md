@@ -1,0 +1,2 @@
+# ninja
+my first repository
